@@ -1,0 +1,27 @@
+.jacket-card{
+    border: 0;
+}
+.jacket-card-footer{
+    background-color: white;
+    border: 0;
+}
+.jacket-border, .extra{
+    border-radius: 20px;
+}
+.extra{
+    background-color: rgb(236, 206, 150);
+}
+.header-bg{
+    background-color: rgb(236, 206, 150);
+}
+
+.bg-button{
+    background-color: rgb(38, 65, 12);
+}
+.text{
+    color:white;
+}
+.title-text{
+    font-weight:bold;
+    color: rgb(78, 117, 5);
+}
